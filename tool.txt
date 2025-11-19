@@ -1,0 +1,7 @@
+SDLC is good 
+Linux is open source
+scripting is automation
+git is a DVCS
+aws cloud computing provider
+ec2 is virtual servers in the cloud
+
