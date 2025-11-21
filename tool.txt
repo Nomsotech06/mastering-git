@@ -1,4 +1,4 @@
-SDLC is good 
+SDLC is good using agile 
 Linux is open source
 scripting is automation
 git is a DVCS
