@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Default time range: last 7 days (change as needed)
-DAYS=7
+# Default time range: last 30  days (change as needed)
+DAYS=30
 
 # Check if user supplied a custom number of days
 if [ ! -z "$1" ]; then
